@@ -3,22 +3,22 @@ Upon detecting a human presence in the room, the system verifies whether the det
 
 I am utilizing the **Raspberry Pi 5** for hardware, in conjunction with relay modules that function as switches. The camera setup comprises a Lenovo FHD webcam, with the Raspberry Pi Cam or ESP32 Cam serving as viable alternatives.
 
-##Circuit Diagram
+## Circuit Diagram
 ![ckt diagram](https://github.com/aman-kumar3032002/HomeAuto/blob/main/HomeAuto_ckt_diag.pdf)
 
-##Flow Chart 
+## Flow Chart 
 ![Flow chart](https://github.com/aman-kumar3032002/HomeAuto/blob/main/flow_chart.png)
 
-##Advantages
+## Advantages
 -Saves Electricity
 -Better than the sensor based systems as they have low area of vision
 -better accuracy than pir sensor
 
-##Disadvantages
+## Disadvantages
 -Doesn't work in low light condition.
 -Fake Detections
 
-#Further Advancement
+## Further Advancement
 -Minimizing the Fake detections
 -Gesture recognition
 -Adding other appliances
