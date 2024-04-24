@@ -10,15 +10,15 @@ I am utilizing the **Raspberry Pi 5** for hardware, in conjunction with relay mo
 ![Flow chart](https://github.com/aman-kumar3032002/HomeAuto/blob/main/flow_chart.png)
 
 ## Advantages
--Saves Electricity
--Better than the sensor based systems as they have low area of vision
--better accuracy than pir sensor
+- Saves Electricity
+- Better than the sensor based systems as they have low area of vision
+- Better accuracy than pir sensor
 
 ## Disadvantages
--Doesn't work in low light condition.
--Fake Detections
+- Doesn't work in low light condition.
+- Fake Detections
 
 ## Further Advancement
--Minimizing the Fake detections
--Gesture recognition
--Adding other appliances
+- Minimizing the Fake detections
+- Gesture recognition
+- Adding other appliances
